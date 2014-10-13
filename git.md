@@ -1,4 +1,4 @@
-Fake Wrong Git Notes
+Corrected Git Notes
 ===========================
 
 Introduction
