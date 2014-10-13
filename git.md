@@ -68,14 +68,14 @@ View list of recent commits
 git log
 ```
 
-Transmit commits to remote commitstore
+Transmit commits to remote repository
 ====================================
 
 ```
 git transmit
 ```
 
-Fetch commits from remote commitstore
+Fetch commits from remote repository
 ===================================
 
 ```
