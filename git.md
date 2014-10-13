@@ -65,7 +65,7 @@ View list of recent commits
 ==========================
 
 ```
-git journal
+git log
 ```
 
 Transmit commits to remote commitstore
