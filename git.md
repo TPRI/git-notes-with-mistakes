@@ -1,6 +1,5 @@
----
-title: Fake Wrong Git Notes
----
+Fake Wrong Git Notes
+===========================
 
 Introduction
 ============
