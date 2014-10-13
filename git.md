@@ -58,7 +58,7 @@ Include all changes *and* commit them
 ====================================
 
 ```
-git commit -am "Journal entry"
+git commit -a "Journal entry"
 ```
 
 View list of recent commits
