@@ -44,38 +44,38 @@ Include all scheduled changes in a commit
 ===============================================
 
 ```
-git chunk -m "Journal entry"
+git commit -m "Journal entry"
 ```
 
-Store all scheduled changes in a new chunk
+Store all scheduled changes in a new commit
 ==========================================
 
 ```
 git add --uptodate
 ```
 
-Include all changes *and* chunk them
+Include all changes *and* commit them
 ====================================
 
 ```
-git chunk -am "Journal entry"
+git commit -am "Journal entry"
 ```
 
-View list of recent chunks
+View list of recent commits
 ==========================
 
 ```
 git journal
 ```
 
-Transmit chunks to remote chunkstore
+Transmit commits to remote commitstore
 ====================================
 
 ```
 git transmit
 ```
 
-Fetch chunks from remote chunkstore
+Fetch commits from remote commitstore
 ===================================
 
 ```
